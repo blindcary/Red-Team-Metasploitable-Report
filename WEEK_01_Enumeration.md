@@ -1,9 +1,9 @@
-# 📝 Week 1: Systematic Enumeration Report
+# Week 1: Systematic Enumeration Report
 
-## 🎯 Goal
+## Goal
 Systematically map all open services, versions, and hidden directories on the target host (`192.168.122.160`) to create a comprehensive attack surface profile.
 
-## 🛠️ Methodology
+## Methodology
 The primary methodology was **Service and Version Scanning** followed by **Web and Network Enumeration**.
 
 ### Key Commands Used
@@ -15,7 +15,7 @@ The primary methodology was **Service and Version Scanning** followed by **Web a
 
 ---
 
-## 🔍 Key Findings (Actionable Intelligence)
+## Key Findings (Actionable Intelligence)
 
 The following services were found to be outdated, misconfigured, or contained known vulnerabilities.
 
