@@ -1,4 +1,4 @@
-# 🚩 Red Team Fundamentals: Metasploitable 2 Report
+# Red Team Fundamentals: Metasploitable 2 Report
 
 ## Project Goal
 This repository documents a systematic, phase-by-phase penetration test conducted against the Metasploitable 2 virtual machine. The goal is to demonstrate mastery of the core penetration testing life cycle: reconnaissance, enumeration, exploitation, and post-exploitation.
