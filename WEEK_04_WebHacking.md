@@ -1,4 +1,4 @@
-# 📝 Week 4: Web Application Hacking Report
+#  Week 4: Web Application Hacking Report
 
 ## 🎯 Goal
 Identify and exploit common web vulnerabilities within the Damn Vulnerable Web Application (DVWA) to steal data and execute remote commands.
