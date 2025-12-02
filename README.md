@@ -15,6 +15,6 @@ This repository documents a systematic, phase-by-phase penetration test conducte
 | **Week 1** | Systematic Enumeration | Complete | [Report: Week 1 Enumeration](WEEK_01_Enumeration.md) |
 | **Week 2** | Initial Exploitation | Complete | [Report: Week 2 Exploitation](WEEK_02_Exploitation.md) |
 | **Week 3** | Post-Exploitation & PrivEsc | Complete | [Report: Week 3 Post-Exploitation](WEEK_03_PostExploitation.md) |
-| **Week 4** | Web Application Hacking (DVWA) | In Progress | |
+| **Week 4** | Web Application Hacking (DVWA) | Complete | [Report: Week 4 Web Hacking](WEEK_04_WebHacking.md) |
 
 ---
