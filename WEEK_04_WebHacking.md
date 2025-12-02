@@ -1,9 +1,9 @@
 #  Week 4: Web Application Hacking Report
 
-## 🎯 Goal
+## Goal
 Identify and exploit common web vulnerabilities within the Damn Vulnerable Web Application (DVWA) to steal data and execute remote commands.
 
-## 🛠️ Methodology
+## Methodology
 Testing was conducted at the **Low Security Level** using injection techniques to bypass input validation and expose underlying system or database functions.
 
 ### Key Exploits Performed
@@ -14,7 +14,7 @@ Testing was conducted at the **Low Security Level** using injection techniques t
 
 ---
 
-## 🔍 Key Findings (Web Exploitation)
+## Key Findings (Web Exploitation)
 
 ### 1. Command Injection (Remote Code Execution)
 The application failed to sanitize user input, allowing the semicolon (`;`) command separator to execute unauthorized system commands.
