@@ -19,4 +19,4 @@ This repository documents a systematic, phase-by-phase penetration test conducte
 
 ---
 ## Other projects
-
+1.PostgreSQL RCE via Weak Credentials(EXPLOIT_PostgresSQL_RCE.md)
