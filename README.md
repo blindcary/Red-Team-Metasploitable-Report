@@ -21,3 +21,4 @@ This repository documents a systematic, phase-by-phase penetration test conducte
 ## Other Projects after fundamentals
 1. Exploit: PostgreSQL RCE via Weak Credentials [link](EXPLOIT_PostgresSQL_RCE.md)
 2. Exploit: UnrealIRCd Backdoor (Root Shell) [link](EXPLOIT_UnrealIRCd_Backdoor.md)
+3. Exploit: Apachce Tomcat Manager Upload RCE [link](EXPLOIT_Tomcat_RCE.md)
