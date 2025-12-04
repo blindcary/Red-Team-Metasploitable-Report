@@ -18,3 +18,5 @@ This repository documents a systematic, phase-by-phase penetration test conducte
 | **Week 4** | Web Application Hacking (DVWA) | Complete | [Report: Week 4 Web Hacking](WEEK_04_WebHacking.md) |
 
 ---
+## Other projects
+
