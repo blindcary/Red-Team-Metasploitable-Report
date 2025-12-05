@@ -25,4 +25,4 @@ This repository documents a systematic, phase-by-phase penetration test conducte
 
 
 # Advanced Reports and Exploits
-1. Sensitive Data Exposure [link](ADVANCED_01_Sensitive_Data_Exposure.md)
+1. Sensitive Data Exposure on OWASP juice shop with Burp Suite set up in the browser [link](ADVANCED_01_Sensitive_Data_Exposure.md)
