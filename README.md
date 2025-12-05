@@ -22,3 +22,7 @@ This repository documents a systematic, phase-by-phase penetration test conducte
 1. Exploit: PostgreSQL RCE via Weak Credentials [link](EXPLOIT_PostgresSQL_RCE.md)
 2. Exploit: UnrealIRCd Backdoor (Root Shell) [link](EXPLOIT_UnrealIRCd_Backdoor.md)
 3. Exploit: Apachce Tomcat Manager Upload RCE [link](EXPLOIT_Tomcat_RCE.md)
+
+
+# Advanced Reports and Exploits
+1. Sensitive Data Exposure [link](ADVANCED_01_Sensitive_Data_Exposure.md)
